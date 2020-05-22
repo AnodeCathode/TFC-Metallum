@@ -4,8 +4,8 @@
   "defaults": {
     "model": "tfc:anvil",
     "textures": {
-      "all": "tfc:blocks/metal/aluminium",
-      "particle": "tfc:blocks/metal/aluminium"
+      "all": "tfc:blocks/metal/aluminum",
+      "particle": "tfc:blocks/metal/aluminum"
     }
   },
   "variants": {

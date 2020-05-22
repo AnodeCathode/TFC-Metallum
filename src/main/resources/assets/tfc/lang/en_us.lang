@@ -324,121 +324,121 @@ item.tfc.ore.rutile.poor.name=Poor Rutile
 item.tfc.ore.rutile.rich.name=Rich Rutile
 item.tfc.ore.small.rutile.name=Small Rutile
 
-#Aluminium
+#Aluminum
 # Metal items
-item.tfc.metal.ingot.aluminium.name=Aluminium Ingot
-item.tfc.metal.double_ingot.aluminium.name=Aluminium Double Ingot
-item.tfc.metal.scrap.aluminium.name=Aluminium Scrap
-item.tfc.metal.dust.aluminium.name=Aluminium Dust
-item.tfc.metal.nugget.aluminium.name=Aluminium Nugget
-item.tfc.metal.sheet.aluminium.name=Aluminium Sheet
-item.tfc.metal.double_sheet.aluminium.name=Aluminium Double Sheet
-item.tfc.metal.tuyere.aluminium.name=Aluminium Tuyere
+item.tfc.metal.ingot.aluminum.name=Aluminum Ingot
+item.tfc.metal.double_ingot.aluminum.name=Aluminum Double Ingot
+item.tfc.metal.scrap.aluminum.name=Aluminum Scrap
+item.tfc.metal.dust.aluminum.name=Aluminum Dust
+item.tfc.metal.nugget.aluminum.name=Aluminum Nugget
+item.tfc.metal.sheet.aluminum.name=Aluminum Sheet
+item.tfc.metal.double_sheet.aluminum.name=Aluminum Double Sheet
+item.tfc.metal.tuyere.aluminum.name=Aluminum Tuyere
 
 # Metal tools
-item.tfc.metal.pick.aluminium.name=Aluminium Pickaxe
-item.tfc.metal.pick_head.aluminium.name=Aluminium Pickaxe Head
-item.tfc.metal.shovel.aluminium.name=Aluminium Shovel
-item.tfc.metal.shovel_head.aluminium.name=Aluminium Shovel Head
-item.tfc.metal.axe.aluminium.name=Aluminium Axe
-item.tfc.metal.axe_head.aluminium.name=Aluminium Axe Head
-item.tfc.metal.hoe.aluminium.name=Aluminium Hoe
-item.tfc.metal.hoe_head.aluminium.name=Aluminium Hoe Head
-item.tfc.metal.chisel.aluminium.name=Aluminium Chisel
-item.tfc.metal.chisel_head.aluminium.name=Aluminium Chisel Head
-item.tfc.metal.sword.aluminium.name=Aluminium Sword
-item.tfc.metal.sword_blade.aluminium.name=Aluminium Sword Blade
-item.tfc.metal.mace.aluminium.name=Aluminium Mace
-item.tfc.metal.mace_head.aluminium.name=Aluminium Mace Head
-item.tfc.metal.saw.aluminium.name=Aluminium Saw
-item.tfc.metal.saw_blade.aluminium.name=Aluminium Saw Blade
-item.tfc.metal.shears.aluminium.name=Aluminium Shears
-item.tfc.metal.shield.aluminium.name=Aluminium Shield
-item.tfc.metal.javelin.aluminium.name=Aluminium Javelin
-item.tfc.metal.javelin_head.aluminium.name=Aluminium Javelin Head
-item.tfc.metal.hammer.aluminium.name=Aluminium Hammer
-item.tfc.metal.hammer_head.aluminium.name=Aluminium Hammer Head
-item.tfc.metal.propick.aluminium.name=Aluminium Prospector's Pickaxe
-item.tfc.metal.propick_head.aluminium.name=Aluminium Prospector's Pickaxe Head
-item.tfc.metal.knife.aluminium.name=Aluminium Knife
-item.tfc.metal.knife_blade.aluminium.name=Aluminium Knife Blade
-item.tfc.metal.scythe.aluminium.name=Aluminium Scythe
-item.tfc.metal.scythe_blade.aluminium.name=Aluminium Scythe Blade
+item.tfc.metal.pick.aluminum.name=Aluminum Pickaxe
+item.tfc.metal.pick_head.aluminum.name=Aluminum Pickaxe Head
+item.tfc.metal.shovel.aluminum.name=Aluminum Shovel
+item.tfc.metal.shovel_head.aluminum.name=Aluminum Shovel Head
+item.tfc.metal.axe.aluminum.name=Aluminum Axe
+item.tfc.metal.axe_head.aluminum.name=Aluminum Axe Head
+item.tfc.metal.hoe.aluminum.name=Aluminum Hoe
+item.tfc.metal.hoe_head.aluminum.name=Aluminum Hoe Head
+item.tfc.metal.chisel.aluminum.name=Aluminum Chisel
+item.tfc.metal.chisel_head.aluminum.name=Aluminum Chisel Head
+item.tfc.metal.sword.aluminum.name=Aluminum Sword
+item.tfc.metal.sword_blade.aluminum.name=Aluminum Sword Blade
+item.tfc.metal.mace.aluminum.name=Aluminum Mace
+item.tfc.metal.mace_head.aluminum.name=Aluminum Mace Head
+item.tfc.metal.saw.aluminum.name=Aluminum Saw
+item.tfc.metal.saw_blade.aluminum.name=Aluminum Saw Blade
+item.tfc.metal.shears.aluminum.name=Aluminum Shears
+item.tfc.metal.shield.aluminum.name=Aluminum Shield
+item.tfc.metal.javelin.aluminum.name=Aluminum Javelin
+item.tfc.metal.javelin_head.aluminum.name=Aluminum Javelin Head
+item.tfc.metal.hammer.aluminum.name=Aluminum Hammer
+item.tfc.metal.hammer_head.aluminum.name=Aluminum Hammer Head
+item.tfc.metal.propick.aluminum.name=Aluminum Prospector's Pickaxe
+item.tfc.metal.propick_head.aluminum.name=Aluminum Prospector's Pickaxe Head
+item.tfc.metal.knife.aluminum.name=Aluminum Knife
+item.tfc.metal.knife_blade.aluminum.name=Aluminum Knife Blade
+item.tfc.metal.scythe.aluminum.name=Aluminum Scythe
+item.tfc.metal.scythe_blade.aluminum.name=Aluminum Scythe Blade
 
-item.tfc.metal.lamp.aluminium.name=Aluminium Lamp
-item.tfc.ceramics.fired.mold.ingot.aluminium.name=Unshaped Aluminium
+item.tfc.metal.lamp.aluminum.name=Aluminum Lamp
+item.tfc.ceramics.fired.mold.ingot.aluminum.name=Unshaped Aluminum
 
 # Metal Armors
-item.tfc.metal.chestplate.aluminium.name=Aluminium Chestplate
-item.tfc.metal.greaves.aluminium.name=Aluminium Greaves
-item.tfc.metal.boots.aluminium.name=Aluminium Boots
-item.tfc.metal.helmet.aluminium.name=Aluminium Helmet
+item.tfc.metal.chestplate.aluminum.name=Aluminum Chestplate
+item.tfc.metal.greaves.aluminum.name=Aluminum Greaves
+item.tfc.metal.boots.aluminum.name=Aluminum Boots
+item.tfc.metal.helmet.aluminum.name=Aluminum Helmet
 
-item.tfc.metal.unfinished_chestplate.aluminium.name=Unfinished Aluminium Chestplate
-item.tfc.metal.unfinished_boots.aluminium.name=Unfinished Aluminium Boots
-item.tfc.metal.unfinished_helmet.aluminium.name=Unfinished Aluminium Helmet
-item.tfc.metal.unfinished_greaves.aluminium.name=Unfinished Aluminium Greaves
+item.tfc.metal.unfinished_chestplate.aluminum.name=Unfinished Aluminum Chestplate
+item.tfc.metal.unfinished_boots.aluminum.name=Unfinished Aluminum Boots
+item.tfc.metal.unfinished_helmet.aluminum.name=Unfinished Aluminum Helmet
+item.tfc.metal.unfinished_greaves.aluminum.name=Unfinished Aluminum Greaves
 
 #Metal Anvils
-item.tfc.metal.anvil.aluminium.name=Aluminium Anvil
+item.tfc.metal.anvil.aluminum.name=Aluminum Anvil
 
-#Aluminium Brass
+#Aluminum Brass
 # Metal items
-item.tfc.metal.ingot.aluminium_brass.name=Aluminium Brass Ingot
-item.tfc.metal.double_ingot.aluminium_brass.name=Aluminium Brass Double Ingot
-item.tfc.metal.scrap.aluminium_brass.name=Aluminium Brass Scrap
-item.tfc.metal.dust.aluminium_brass.name=Aluminium Brass Dust
-item.tfc.metal.nugget.aluminium_brass.name=Aluminium Brass Nugget
-item.tfc.metal.sheet.aluminium_brass.name=Aluminium Brass Sheet
-item.tfc.metal.double_sheet.aluminium_brass.name=Aluminium Brass Double Sheet
-item.tfc.metal.tuyere.aluminium_brass.name=Aluminium Brass Tuyere
+item.tfc.metal.ingot.aluminum_brass.name=Aluminum Brass Ingot
+item.tfc.metal.double_ingot.aluminum_brass.name=Aluminum Brass Double Ingot
+item.tfc.metal.scrap.aluminum_brass.name=Aluminum Brass Scrap
+item.tfc.metal.dust.aluminum_brass.name=Aluminum Brass Dust
+item.tfc.metal.nugget.aluminum_brass.name=Aluminum Brass Nugget
+item.tfc.metal.sheet.aluminum_brass.name=Aluminum Brass Sheet
+item.tfc.metal.double_sheet.aluminum_brass.name=Aluminum Brass Double Sheet
+item.tfc.metal.tuyere.aluminum_brass.name=Aluminum Brass Tuyere
 
 # Metal tools
-item.tfc.metal.pick.aluminium_brass.name=Aluminium Brass Pickaxe
-item.tfc.metal.pick_head.aluminium_brass.name=Aluminium Brass Pickaxe Head
-item.tfc.metal.shovel.aluminium_brass.name=Aluminium Brass Shovel
-item.tfc.metal.shovel_head.aluminium_brass.name=Aluminium Brass Shovel Head
-item.tfc.metal.axe.aluminium_brass.name=Aluminium Brass Axe
-item.tfc.metal.axe_head.aluminium_brass.name=Aluminium Brass Axe Head
-item.tfc.metal.hoe.aluminium_brass.name=Aluminium Brass Hoe
-item.tfc.metal.hoe_head.aluminium_brass.name=Aluminium Brass Hoe Head
-item.tfc.metal.chisel.aluminium_brass.name=Aluminium Brass Chisel
-item.tfc.metal.chisel_head.aluminium_brass.name=Aluminium Brass Chisel Head
-item.tfc.metal.sword.aluminium_brass.name=Aluminium Brass Sword
-item.tfc.metal.sword_blade.aluminium_brass.name=Aluminium Brass Sword Blade
-item.tfc.metal.mace.aluminium_brass.name=Aluminium Brass Mace
-item.tfc.metal.mace_head.aluminium_brass.name=Aluminium Brass Mace Head
-item.tfc.metal.saw.aluminium_brass.name=Aluminium Brass Saw
-item.tfc.metal.saw_blade.aluminium_brass.name=Aluminium Brass Saw Blade
-item.tfc.metal.shears.aluminium_brass.name=Aluminium Brass Shears
-item.tfc.metal.shield.aluminium_brass.name=Aluminium Brass Shield
-item.tfc.metal.javelin.aluminium_brass.name=Aluminium Brass Javelin
-item.tfc.metal.javelin_head.aluminium_brass.name=Aluminium Brass Javelin Head
-item.tfc.metal.hammer.aluminium_brass.name=Aluminium Brass Hammer
-item.tfc.metal.hammer_head.aluminium_brass.name=Aluminium Brass Hammer Head
-item.tfc.metal.propick.aluminium_brass.name=Aluminium Brass Prospector's Pickaxe
-item.tfc.metal.propick_head.aluminium_brass.name=Aluminium Brass Prospector's Pickaxe Head
-item.tfc.metal.knife.aluminium_brass.name=Aluminium Brass Knife
-item.tfc.metal.knife_blade.aluminium_brass.name=Aluminium Brass Knife Blade
-item.tfc.metal.scythe.aluminium_brass.name=Aluminium Brass Scythe
-item.tfc.metal.scythe_blade.aluminium_brass.name=Aluminium Brass Scythe Blade
+item.tfc.metal.pick.aluminum_brass.name=Aluminum Brass Pickaxe
+item.tfc.metal.pick_head.aluminum_brass.name=Aluminum Brass Pickaxe Head
+item.tfc.metal.shovel.aluminum_brass.name=Aluminum Brass Shovel
+item.tfc.metal.shovel_head.aluminum_brass.name=Aluminum Brass Shovel Head
+item.tfc.metal.axe.aluminum_brass.name=Aluminum Brass Axe
+item.tfc.metal.axe_head.aluminum_brass.name=Aluminum Brass Axe Head
+item.tfc.metal.hoe.aluminum_brass.name=Aluminum Brass Hoe
+item.tfc.metal.hoe_head.aluminum_brass.name=Aluminum Brass Hoe Head
+item.tfc.metal.chisel.aluminum_brass.name=Aluminum Brass Chisel
+item.tfc.metal.chisel_head.aluminum_brass.name=Aluminum Brass Chisel Head
+item.tfc.metal.sword.aluminum_brass.name=Aluminum Brass Sword
+item.tfc.metal.sword_blade.aluminum_brass.name=Aluminum Brass Sword Blade
+item.tfc.metal.mace.aluminum_brass.name=Aluminum Brass Mace
+item.tfc.metal.mace_head.aluminum_brass.name=Aluminum Brass Mace Head
+item.tfc.metal.saw.aluminum_brass.name=Aluminum Brass Saw
+item.tfc.metal.saw_blade.aluminum_brass.name=Aluminum Brass Saw Blade
+item.tfc.metal.shears.aluminum_brass.name=Aluminum Brass Shears
+item.tfc.metal.shield.aluminum_brass.name=Aluminum Brass Shield
+item.tfc.metal.javelin.aluminum_brass.name=Aluminum Brass Javelin
+item.tfc.metal.javelin_head.aluminum_brass.name=Aluminum Brass Javelin Head
+item.tfc.metal.hammer.aluminum_brass.name=Aluminum Brass Hammer
+item.tfc.metal.hammer_head.aluminum_brass.name=Aluminum Brass Hammer Head
+item.tfc.metal.propick.aluminum_brass.name=Aluminum Brass Prospector's Pickaxe
+item.tfc.metal.propick_head.aluminum_brass.name=Aluminum Brass Prospector's Pickaxe Head
+item.tfc.metal.knife.aluminum_brass.name=Aluminum Brass Knife
+item.tfc.metal.knife_blade.aluminum_brass.name=Aluminum Brass Knife Blade
+item.tfc.metal.scythe.aluminum_brass.name=Aluminum Brass Scythe
+item.tfc.metal.scythe_blade.aluminum_brass.name=Aluminum Brass Scythe Blade
 
-item.tfc.metal.lamp.aluminium_brass.name=Aluminium Brass Lamp
-item.tfc.ceramics.fired.mold.ingot.aluminium_brass.name=Unshaped Aluminium Brass
+item.tfc.metal.lamp.aluminum_brass.name=Aluminum Brass Lamp
+item.tfc.ceramics.fired.mold.ingot.aluminum_brass.name=Unshaped Aluminum Brass
 
 # Metal Armors
-item.tfc.metal.chestplate.aluminium_brass.name=Aluminium Brass Chestplate
-item.tfc.metal.greaves.aluminium_brass.name=Aluminium Brass Greaves
-item.tfc.metal.boots.aluminium_brass.name=Aluminium Brass Boots
-item.tfc.metal.helmet.aluminium_brass.name=Aluminium Brass Helmet
+item.tfc.metal.chestplate.aluminum_brass.name=Aluminum Brass Chestplate
+item.tfc.metal.greaves.aluminum_brass.name=Aluminum Brass Greaves
+item.tfc.metal.boots.aluminum_brass.name=Aluminum Brass Boots
+item.tfc.metal.helmet.aluminum_brass.name=Aluminum Brass Helmet
 
-item.tfc.metal.unfinished_chestplate.aluminium_brass.name=Unfinished Aluminium Brass Chestplate
-item.tfc.metal.unfinished_boots.aluminium_brass.name=Unfinished Aluminium Brass Boots
-item.tfc.metal.unfinished_helmet.aluminium_brass.name=Unfinished Aluminium Brass Helmet
-item.tfc.metal.unfinished_greaves.aluminium_brass.name=Unfinished Aluminium Brass Greaves
+item.tfc.metal.unfinished_chestplate.aluminum_brass.name=Unfinished Aluminum Brass Chestplate
+item.tfc.metal.unfinished_boots.aluminum_brass.name=Unfinished Aluminum Brass Boots
+item.tfc.metal.unfinished_helmet.aluminum_brass.name=Unfinished Aluminum Brass Helmet
+item.tfc.metal.unfinished_greaves.aluminum_brass.name=Unfinished Aluminum Brass Greaves
 
 #Metal Anvils
-item.tfc.metal.anvil.aluminium_brass.name=Aluminium Brass Anvil
+item.tfc.metal.anvil.aluminum_brass.name=Aluminum Brass Anvil
 
 #Red Alloy Brass
 # Metal items
@@ -1253,8 +1253,8 @@ item.tfc.metal.unfinished_greaves.nickel_silver.name=Unfinished Nickel Silver Gr
 item.tfc.metal.anvil.nickel_silver.name=Nickel Silver Anvil
 
 # Metal types
-tfc.types.metal.aluminium=Aluminium
-tfc.types.metal.aluminium_brass=Aluminium Brass
+tfc.types.metal.aluminum=Aluminum
+tfc.types.metal.aluminum_brass=Aluminum Brass
 tfc.types.metal.antimony=Antimony
 tfc.types.metal.ardite=Ardite
 tfc.types.metal.cobalt=Cobalt
@@ -1276,8 +1276,8 @@ fluid.constantan=Molten Constantan
 fluid.electrum=Molten Electrum
 fluid.mithril=Molten Mithril
 fluid.invar=Molten Invar
-fluid.aluminium=Molten Aluminium
-fluid.aluminium_brass=Molten Aluminium Brass
+fluid.aluminum=Molten Aluminum
+fluid.aluminum_brass=Molten Aluminum Brass
 fluid.ardite=Molten Ardite
 fluid.cobalt=Molten Cobalt
 fluid.manyullyn=Molten Manyullyn
@@ -1289,8 +1289,8 @@ fluid.nickel_silver=Molten Nickel Silver
 fluid.red_alloy=Molten Red Alloy
 
 #Blooms
-item.tfc.bloom.unrefined.aluminium.name=Raw Aluminium Bloom
-item.tfc.bloom.refined.aluminium.name=Refined Aluminium Bloom
+item.tfc.bloom.unrefined.aluminum.name=Raw Aluminum Bloom
+item.tfc.bloom.refined.aluminum.name=Refined Aluminum Bloom
 item.tfc.bloom.unrefined.ardite.name=Raw Ardite Bloom
 item.tfc.bloom.refined.ardite.name=Refined Ardite Bloom
 item.tfc.bloom.unrefined.cobalt.name=Raw Cobalt Bloom
@@ -1323,8 +1323,8 @@ config.tfcmetallum.recipes.tooltip=Toggle advanced metals recipes on/off
 config.tfcmetallum.recipes.ardite=Ardite via Bloomery
 config.tfcmetallum.recipes.ardite.tooltip=Register ardite recipe via bloomery?
 
-config.tfcmetallum.recipes.aluminium=Aluminium via Bloomery
-config.tfcmetallum.recipes.aluminium.tooltip=Register aluminium recipe via bloomery?
+config.tfcmetallum.recipes.aluminum=Aluminum via Bloomery
+config.tfcmetallum.recipes.aluminum.tooltip=Register aluminum recipe via bloomery?
 
 config.tfcmetallum.recipes.cobalt=Cobalt via Bloomery
 config.tfcmetallum.recipes.cobalt.tooltip=Register cobalt recipe via bloomery?

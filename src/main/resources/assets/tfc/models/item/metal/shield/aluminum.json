@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "texture": "tfc:items/metal/shield/aluminium",
-    "particle": "tfc:items/metal/shield/aluminium"
+    "texture": "tfc:items/metal/shield/aluminum",
+    "particle": "tfc:items/metal/shield/aluminum"
   },
   "elements": [
     {
@@ -3188,7 +3188,7 @@
       "predicate": {
         "blocking": 1
       },
-      "model": "tfc:item/metal/shield/aluminium_blocking"
+      "model": "tfc:item/metal/shield/aluminum_blocking"
     }
   ]
 }

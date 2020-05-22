@@ -9,7 +9,7 @@
     "normal": {
       "transform": "forge:default-item",
       "custom": {
-        "fluid": "aluminium_brass"
+        "fluid": "aluminum_brass"
       }
     }
   }

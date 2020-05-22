@@ -4,8 +4,8 @@
   "defaults": {
     "model": "tfc:anvil",
     "textures": {
-      "all": "tfc:blocks/metal/aluminium_brass",
-      "particle": "tfc:blocks/metal/aluminium_brass"
+      "all": "tfc:blocks/metal/aluminum_brass",
+      "particle": "tfc:blocks/metal/aluminum_brass"
     }
   },
   "variants": {
