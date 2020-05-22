@@ -7,7 +7,7 @@
   ],
   "key": {
     "X": {
-      "item": "tfc:metal/chisel_head/aluminium"
+      "item": "tfc:metal/pick_head/aluminum"
     },
     "S": {
       "type": "forge:ore_dict",
@@ -15,6 +15,6 @@
     }
   },
   "result": {
-    "item": "tfc:metal/chisel/aluminium"
+    "item": "tfc:metal/pick/aluminum"
   }
 }

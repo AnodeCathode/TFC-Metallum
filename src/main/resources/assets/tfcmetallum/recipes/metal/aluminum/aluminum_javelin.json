@@ -7,7 +7,7 @@
   ],
   "key": {
     "X": {
-      "item": "tfc:metal/mace_head/aluminium"
+      "item": "tfc:metal/javelin_head/aluminum"
     },
     "S": {
       "type": "forge:ore_dict",
@@ -15,6 +15,6 @@
     }
   },
   "result": {
-    "item": "tfc:metal/mace/aluminium"
+    "item": "tfc:metal/javelin/aluminum"
   }
 }

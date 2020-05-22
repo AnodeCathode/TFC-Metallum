@@ -37,8 +37,8 @@ import static net.dries007.tfc.util.forge.ForgeRule.*;
 public final class RegistryHandler
 {
     //Metals
-    public static final ResourceLocation ALUMINIUM = new ResourceLocation(MOD_ID, "aluminium");
-    public static final ResourceLocation ALUMINIUM_BRASS = new ResourceLocation(MOD_ID, "aluminium_brass");
+    public static final ResourceLocation ALUMINUM = new ResourceLocation(MOD_ID, "aluminum");
+    public static final ResourceLocation ALUMINUM_BRASS = new ResourceLocation(MOD_ID, "aluminum_brass");
     public static final ResourceLocation ANTIMONY = new ResourceLocation(MOD_ID, "antimony");
     public static final ResourceLocation ARDITE = new ResourceLocation(MOD_ID, "ardite");
     public static final ResourceLocation COBALT = new ResourceLocation(MOD_ID, "cobalt");
@@ -57,7 +57,7 @@ public final class RegistryHandler
     //Ores
     public static final ResourceLocation NATIVE_ARDITE = new ResourceLocation(MOD_ID, "native_ardite");
     public static final ResourceLocation NATIVE_OSMIUM = new ResourceLocation(MOD_ID, "native_osmium");
-    public static final ResourceLocation BAUXITE = new ResourceLocation(MOD_ID, "bauxite"); // aluminium / titanium
+    public static final ResourceLocation BAUXITE = new ResourceLocation(MOD_ID, "bauxite"); // aluminum / titanium
     public static final ResourceLocation WOLFRAMITE = new ResourceLocation(MOD_ID, "wolframite"); // tungsten
     public static final ResourceLocation COBALTITE = new ResourceLocation(MOD_ID, "cobaltite"); // cobalt
     public static final ResourceLocation STIBNITE = new ResourceLocation(MOD_ID, "stibnite"); // antimony
@@ -83,8 +83,8 @@ public final class RegistryHandler
         r.register(new Metal(RED_ALLOY, Metal.Tier.TIER_II, true, 0.35f, 1080, 0xFFDA6E6E, null, null));
         r.register(new Metal(MITHRIL, Metal.Tier.TIER_II, true, 0.35f, 940, 0xFF8ADAF6, ToolMaterialsTFCM.MITHRIL, ArmorMaterialsTFCM.MITHRIL));
         r.register(new Metal(INVAR, Metal.Tier.TIER_III, true, 0.35f, 1450, 0xFF40444A, ToolMaterialsTFCM.INVAR, ArmorMaterialsTFCM.INVAR));
-        r.register(new Metal(ALUMINIUM, Metal.Tier.TIER_III, true, 0.3f, 660, 0xFFD9FBFC, ToolMaterialsTFCM.ALUMINIUM, ArmorMaterialsTFCM.ALUMINIUM));
-        r.register(new Metal(ALUMINIUM_BRASS, Metal.Tier.TIER_III, true, 0.3f, 630, 0xFFDCDABE, null, null));
+        r.register(new Metal(ALUMINUM, Metal.Tier.TIER_III, true, 0.3f, 660, 0xFFD9FBFC, ToolMaterialsTFCM.ALUMINUM, ArmorMaterialsTFCM.ALUMINUM));
+        r.register(new Metal(ALUMINUM_BRASS, Metal.Tier.TIER_III, true, 0.3f, 630, 0xFFDCDABE, null, null));
         r.register(new Metal(ARDITE, Metal.Tier.TIER_III, true, 0.3f, 1050, 0xFF40444A, null, null));
         r.register(new Metal(COBALT, Metal.Tier.TIER_III, true, 0.3f, 1495, 0xFF6CA6E5, ToolMaterialsTFCM.COBALT, ArmorMaterialsTFCM.COBALT));
         r.register(new Metal(MANYULLYN, Metal.Tier.TIER_IV, true, 0.3f, 1550, 0xFF40444A, ToolMaterialsTFCM.MANYULLYN, ArmorMaterialsTFCM.MANYULLYN));
@@ -105,7 +105,7 @@ public final class RegistryHandler
         // Ores which we add tools, armor and textures inside TFC realm, but can't be melted directly (processing by other mods required)
         r.register(new Ore(NATIVE_ARDITE, ARDITE, false));
         r.register(new Ore(NATIVE_OSMIUM, OSMIUM, false));
-        r.register(new Ore(BAUXITE, ALUMINIUM, false));
+        r.register(new Ore(BAUXITE, ALUMINUM, false));
         r.register(new Ore(WOLFRAMITE, TUNGSTEN, false));
         r.register(new Ore(COBALTITE, COBALT, false));
         r.register(new Ore(RUTILE, TITANIUM, false));
@@ -127,7 +127,7 @@ public final class RegistryHandler
         r.register(new AlloyRecipe.Builder(ELECTRUM).add(GOLD, 0.4, 0.6).add(SILVER, 0.4, 0.6).build());
         r.register(new AlloyRecipe.Builder(MITHRIL).add(COPPER, 0.88, 0.92).add(ANTIMONY, 0.08, 0.12).build());
         r.register(new AlloyRecipe.Builder(INVAR).add(WROUGHT_IRON, 0.6, 0.7).add(NICKEL, 0.3, 0.4).build());
-        r.register(new AlloyRecipe.Builder(ALUMINIUM_BRASS).add(ALUMINIUM, 0.65, 0.85).add(COPPER, 0.15, 0.35).build());
+        r.register(new AlloyRecipe.Builder(ALUMINUM_BRASS).add(ALUMINUM, 0.65, 0.85).add(COPPER, 0.15, 0.35).build());
         r.register(new AlloyRecipe.Builder(MANYULLYN).add(COBALT, 0.4, 0.6).add(ARDITE, 0.4, 0.6).build());
         r.register(new AlloyRecipe.Builder(TUNGSTEN_STEEL).add(TUNGSTEN, 0.02, 0.18).add(STEEL, 0.72, 0.98).build());
         r.register(new AlloyRecipe.Builder(NICKEL_SILVER).add(COPPER, 0.50, 0.65).add(ZINC, 0.1, 0.3).add(NICKEL, 0.1, 0.3).build());
@@ -138,9 +138,9 @@ public final class RegistryHandler
     public static void onRegisterBloomeryRecipeEvent(RegistryEvent.Register<BloomeryRecipe> event)
     {
         IForgeRegistry<BloomeryRecipe> registry = event.getRegistry();
-        if (ConfigTFCM.RECIPES.aluminium)
+        if (ConfigTFCM.RECIPES.aluminum)
         {
-            registry.register(new BloomeryRecipe(TFCRegistries.METALS.getValue(ALUMINIUM), FuelManager::isItemBloomeryFuel));
+            registry.register(new BloomeryRecipe(TFCRegistries.METALS.getValue(ALUMINUM), FuelManager::isItemBloomeryFuel));
         }
         if (ConfigTFCM.RECIPES.ardite)
         {
@@ -186,9 +186,9 @@ public final class RegistryHandler
     public static void onRegisterAnvilRecipeEvent(RegistryEvent.Register<AnvilRecipe> event)
     {
         IForgeRegistry<AnvilRecipe> r = event.getRegistry();
-        if (ConfigTFCM.RECIPES.aluminium)
+        if (ConfigTFCM.RECIPES.aluminum)
         {
-            Metal aluminium = TFCRegistries.METALS.getValue(ALUMINIUM);
+            Metal aluminium = TFCRegistries.METALS.getValue(ALUMINUM);
             if (aluminium != null)
             {
                 r.register(new AnvilRecipe(new ResourceLocation(TFCMetallum.MODID, "aluminium_bloom"), x ->

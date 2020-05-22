@@ -87,7 +87,7 @@ METAL_TYPES = {
     'mithril': True,
     'nickel_silver': True,
     'invar': True,
-    'aluminium': True,
+    'aluminum': True,
     'aluminium_brass': True,
     'ardite': False,
     'cobalt': True,

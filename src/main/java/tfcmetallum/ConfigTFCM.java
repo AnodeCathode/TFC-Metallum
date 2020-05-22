@@ -35,10 +35,10 @@ public class ConfigTFCM
         @Config.RequiresMcRestart
         public boolean ardite = true;
 
-        @Config.Comment({"Register aluminium recipe via bloomery?"})
-        @Config.LangKey("config." + MODID + ".recipes.aluminium")
+        @Config.Comment({"Register aluminum recipe via bloomery?"})
+        @Config.LangKey("config." + MODID + ".recipes.aluminum")
         @Config.RequiresMcRestart
-        public boolean aluminium = true;
+        public boolean aluminum = true;
 
         @Config.Comment({"Register cobalt recipe via bloomery?"})
         @Config.LangKey("config." + MODID + ".recipes.cobalt")

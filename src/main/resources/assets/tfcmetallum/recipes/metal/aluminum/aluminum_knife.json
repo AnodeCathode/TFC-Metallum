@@ -7,7 +7,7 @@
   ],
   "key": {
     "X": {
-      "item": "tfc:metal/hoe_head/aluminium"
+      "item": "tfc:metal/knife_blade/aluminum"
     },
     "S": {
       "type": "forge:ore_dict",
@@ -15,6 +15,6 @@
     }
   },
   "result": {
-    "item": "tfc:metal/hoe/aluminium"
+    "item": "tfc:metal/knife/aluminum"
   }
 }
